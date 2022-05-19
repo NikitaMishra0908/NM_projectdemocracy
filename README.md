@@ -1,2 +1,4 @@
 # NM_projectdemocracy
-This is a project for promoting democracy in the world. 
+This is Nikita Mishra.
+First commit
+Touch the sky with glory. 
